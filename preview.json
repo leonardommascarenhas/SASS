@@ -1,0 +1,41 @@
+{
+  "userInformation": {
+    "name": "Leonardo",
+    "lastName": "Moura",
+    "aboutMe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "social_links": {
+      "LinkedIn": "https://www.linkedin.com/in/leonardomoura",
+      "GitHub": "https://github.com/leonardomoura",
+      "Twitter": "https://twitter.com/leonardomoura",
+      "Facebook": "https://www.facebook.com/leonardomoura",
+      "Instagram": "https://www.instagram.com/leonardomoura"
+    },
+    "programmingLanguages": [
+      {
+        "name": "JavaScript",
+        "level": 10
+      },
+      {
+        "name": "Rust",
+        "level": 6
+      }
+    ]
+  },
+  "programminglanguages": {
+    "name": "JavaScript",
+    "level": 5
+  },
+  "fieldOfExpertise": [
+    "Front-End",
+    "Back-End",
+    "FullStack",
+    "DevOps"
+  ],
+  "projects": [
+    {
+      "name": "Project One",
+      "url": "https://www.projectone.com",
+      "repo": "https://github.com/leonardomoura/projectone"
+    }
+  ]
+}
